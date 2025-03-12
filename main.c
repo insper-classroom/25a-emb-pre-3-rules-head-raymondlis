@@ -1,4 +1,4 @@
-// main.c
+// main.c 
 #include "foo.h"
 
 int main(void) {
